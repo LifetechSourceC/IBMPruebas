@@ -1,0 +1,1 @@
+Archivo de comentarios. Aquí se quiere probar el pull, solo se hace como ejemplo, esto no es código, pero en la práctica podría ser un archivo creado por otro programador.
